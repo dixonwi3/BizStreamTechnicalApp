@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfContactModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ContactModel>
+    <FirstName>asdf</FirstName>
+    <LastName>asdf</LastName>
+    <Email>asdf@bb</Email>
+    <Message>asdf</Message>
+  </ContactModel>
+  <ContactModel>
+    <FirstName>hhh</FirstName>
+    <LastName>hh</LastName>
+    <Email>hh@ff</Email>
+    <Message>@@</Message>
+  </ContactModel>
+</ArrayOfContactModel>
